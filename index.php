@@ -1223,32 +1223,7 @@
                            <div class="footer-widget-title">
                               <h3>twitter feed</h3>
                            </div>
-                           <div class="twitter-info-wrapper">
-                              <div class="single-twitter">
-                                 <div class="twitter-icon">
-                                    <i class="ion-social-twitter-outline"></i>
-                                 </div>
-                                 <div class="twitter-content">
-                                    <p>A modern <a href="#">#Shopify theme </a> <a class="link1" href="#">@devitems</a> <a class="link2" href="#">https://twitter.com</a></p>
-                                 </div>
-                              </div>
-                              <div class="single-twitter">
-                                 <div class="twitter-icon">
-                                    <i class="ion-social-twitter-outline"></i>
-                                 </div>
-                                 <div class="twitter-content">
-                                    <p>A modern <a href="#">#Shopify theme </a> <a class="link1" href="#">@devitems</a> <a class="link2" href="#">https://twitter.com</a></p>
-                                 </div>
-                              </div>
-                              <div class="single-twitter">
-                                 <div class="twitter-icon">
-                                    <i class="ion-social-twitter-outline"></i>
-                                 </div>
-                                 <div class="twitter-content">
-                                    <p>A modern <a href="#">#Shopify theme </a> <a class="link1" href="#">@devitems</a> <a class="link2" href="#">https://twitter.com</a></p>
-                                 </div>
-                              </div>
-                           </div>
+                           <div class="twitter-info-wrapper"></div>
                         </div>
                      </div>
                   </div>
